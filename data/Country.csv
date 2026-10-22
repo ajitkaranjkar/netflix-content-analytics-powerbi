@@ -1,0 +1,26 @@
+﻿Country_ID,Country_Name,Region,Primary_Language,Market_Tier,Internet_Penetration_Pct
+C001,United States,North America,English,Tier 3,74.6
+C002,India,Asia,Hindi,Tier 1,93.3
+C003,United Kingdom,Europe,English,Tier 2,72.6
+C004,South Korea,Asia,Korean,Tier 2,80.8
+C005,Japan,Asia,Japanese,Tier 1,57.0
+C006,Spain,Europe,Spanish,Tier 3,93.5
+C007,France,Europe,French,Tier 2,70.9
+C008,Germany,Europe,German,Tier 1,75.1
+C009,Canada,North America,English,Tier 1,81.5
+C010,Mexico,North America,Spanish,Tier 2,70.1
+C011,Brazil,South America,Portuguese,Tier 3,69.4
+C012,Australia,Oceania,English,Tier 2,74.4
+C013,Turkey,Asia,Turkish,Tier 1,78.9
+C014,Italy,Europe,Italian,Tier 1,57.1
+C015,South Africa,Africa,English,Tier 1,92.8
+C016,Nigeria,Africa,English,Tier 3,56.2
+C017,Indonesia,Asia,Indonesian,Tier 1,75.0
+C018,Thailand,Asia,Thai,Tier 1,84.6
+C019,Argentina,South America,Spanish,Tier 3,66.8
+C020,Egypt,Africa,Arabic,Tier 1,67.8
+C021,Sweden,Europe,Swedish,Tier 3,72.8
+C022,Norway,Europe,Norwegian,Tier 1,84.8
+C023,Denmark,Europe,Danish,Tier 2,90.8
+C024,Netherlands,Europe,Dutch,Tier 3,74.7
+C025,Philippines,Asia,English,Tier 2,65.8

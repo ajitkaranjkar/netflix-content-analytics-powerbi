@@ -1,0 +1,14 @@
+{
+  "name": "Netflix Portfolio Dark",
+  "dataColors": [
+    "#E50914",
+    "#F5A623",
+    "#4E9FDC",
+    "#8F6BD9",
+    "#4CC9A6",
+    "#F0707B"
+  ],
+  "background": "#101014",
+  "foreground": "#F4F4F5",
+  "tableAccent": "#E50914"
+}

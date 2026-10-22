@@ -1,0 +1,21 @@
+﻿Genre_ID,Genre_Name,Genre_Group,Target_Audience
+G001,Drama,Drama,General
+G002,Comedy,Comedy,General
+G003,Action,Action & Adventure,General
+G004,Documentary,Non-Fiction,General
+G005,Thriller,Thriller,General
+G006,Romance,Romance,General
+G007,Crime,Crime,Adult
+G008,Horror,Horror,Adult
+G009,Sci-Fi,Sci-Fi & Fantasy,General
+G010,Fantasy,Sci-Fi & Fantasy,General
+G011,Kids,Family,Family
+G012,Animation,Family,Family
+G013,Reality,Unscripted,General
+G014,Mystery,Mystery,General
+G015,Biography,Non-Fiction,General
+G016,Sports,Non-Fiction,General
+G017,Music,Arts,General
+G018,History,Non-Fiction,General
+G019,Adventure,Action & Adventure,General
+G020,Stand-Up,Comedy,General

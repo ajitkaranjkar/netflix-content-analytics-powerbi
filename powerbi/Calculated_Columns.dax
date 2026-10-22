@@ -1,0 +1,5 @@
+-- Add separately in Content using Modeling > New column.
+Release Decade = FORMAT(INT(Content[Release_Year] / 10) * 10, "0") & "s"
+Duration Group = SWITCH(TRUE(), ISBLANK(Content[Duration_Minutes]), "Not available", Content[Duration_Minutes] < 60, "Under 60 min", Content[Duration_Minutes] < 120, "60–119 min", "120+ min")
+-- Add separately in User_Engagement.
+Completion Bucket = SWITCH(TRUE(), ISBLANK(User_Engagement[Completion_Percentage]), "Unknown", User_Engagement[Completion_Percentage] < 25, "0–24%", User_Engagement[Completion_Percentage] < 50, "25–49%", User_Engagement[Completion_Percentage] < 75, "50–74%", "75–100%")
